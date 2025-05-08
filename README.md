@@ -20,6 +20,8 @@ bash
 git clone https://github.com/yourusername/HostelManagementSystem.git
 cd HostelManagementSystem
 
+or you can also download it entirely as zip and extract everything and just follow the next steps based on your convenience.
+
 # Set up virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
